@@ -89,3 +89,20 @@ html, body {
     height: 50vw;
   }
 }
+#creator-footer {
+  width: 100vw;
+  text-align: center;
+  padding: 10px 0 8px 0;
+  font-size: 2em;
+  color: #888;
+  opacity: 0.5;
+  background: none;
+  letter-spacing: 1px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 100;
+  box-shadow: none;
+  pointer-events: none;
+  user-select: none;
+}
